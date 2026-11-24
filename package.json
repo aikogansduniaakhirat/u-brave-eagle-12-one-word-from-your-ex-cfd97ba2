@@ -1,0 +1,11 @@
+{
+  "name": "u-brave-eagle-12-one-word-from-your-ex-cfd97ba2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The one word your ex would use, composed and length-gated by a node program.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
